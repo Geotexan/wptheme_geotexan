@@ -1,6 +1,6 @@
 <footer  class="width-100 bg-color-000 border-top-solid-secondary">
- 
- 
+
+
   <div class="container">
 
     <div class="row">
@@ -29,39 +29,39 @@
     </div>
   </div>
   <div class="clearfix border-top-solid-333 width-100 margin-bottom-24"></div>
-  
+
   <div class="container">
     <div class="row padding-bottom-24 margin-bottom-24">
       <div class="col-lg-8 col-md-8 col-xs-12 col-sm-9 copy">
         <p class="padding-top-24">© Fucking Awesome Company · Política de protección de datos</p>
       </div>
-      <div class="col-lg-4 col-md-4 col-xs-12 col-sm-3"> <img src="img/logotipo-unir_inverse.png" width="209" height="66" alt="logotipo" class="img-responsive"> </div>
+      <div class="col-lg-4 col-md-4 col-xs-12 col-sm-3"> <img src="<?php bloginfo('stylesheet_directory');?>/img/logotipo-unir_inverse.png" width="209" height="66" alt="logotipo" class="img-responsive"> </div>
     </div>
-   </div> 
+   </div>
 
 
 
 	<div class="clearfix border-top-dotted-333 width-100 margin-bottom-24"></div>
-	
-    
+
+
     <div class="container">
         <div class="row margin-top-12 margin-bottom-12">
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"> <a href="#"><img src="<?php bloginfo('stylesheet_directory');?>/img/logo_conecta.jpg" width="168" height="50" alt="Conecta 2" class="icon img-responsive logo-footer"/></a>
            </div>
-            
-    
+
+
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"> <a href="#"><img src="<?php bloginfo('stylesheet_directory');?>/img/logo_ensenanza.jpg" width="198" height="50" alt="Conecta 2" class="icon img-responsive logo-footer"/></a>
            </div>
-        
-      
+
+
             <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4"> <a href="#"><img src="<?php bloginfo('stylesheet_directory');?>/img/logo_educacion3.jpg" width="168" height="50" alt="Conecta 2" class="icon img-responsive logo-footer"/></a>
            </div>
-            
+
         </div>
     </div>
-    
+
   </div>
-</footer> <!-- /footer --> 
+</footer> <!-- /footer -->
 
 
 
@@ -71,12 +71,12 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <!-- Latest compiled and minified JavaScript -->
 	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    
-    
+
+
 
     <!--jQuery.html5form plugin-->
     <script src="http://html5form.googlecode.com/svn/trunk/jquery.html5form-1.5-min.js"></script>
-    
+
     <script>
             $('.carousel').carousel({
           interval: 1000000000
