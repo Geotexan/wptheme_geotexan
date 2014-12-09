@@ -1,11 +1,11 @@
-@charset "ISO-8859-1";
+@charset "UTF-8";
 
 /*-----banda azul-----*/
 
 .icon-campus {
-	background-image:url(../img/campus-virtual.png);
+	/* background-image:url(../img/campus-virtual.png); */
 	background-repeat:no-repeat;
-	background-position:left;
+	background-position:left center;
 	}
 
 
