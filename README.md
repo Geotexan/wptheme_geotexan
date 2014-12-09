@@ -5,5 +5,7 @@ Vampirizado del _template_ `congreso` de la **UNIR**.
 
 * Necesita el plugin CustomFieldSuite y el theme bootstrap-basic.
 
-> Bitblue
+> Bitblue & co.
+
+> Una nueva modificación desde casa
 

@@ -6,7 +6,8 @@ function enqueue_parent_theme_style() {
     wp_enqueue_style( 'parent-style', get_template_directory_uri().'/style.css' );
 }
 
-define("ID_SIDEBAR", 89);
+/* define("ID_SIDEBAR", 89); */
+define("ID_SIDEBAR", 9);
 function register_my_menu() {
   register_nav_menu('header-menu',__( 'Menú cabecera' ));
 }
