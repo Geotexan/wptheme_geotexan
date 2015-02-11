@@ -1,10 +1,23 @@
 /*
 Theme Name: Geotexan
-Theme URI: https://github.com/pacoqueen
-Description: Tema Visual para Geotexan. Vampirizado de unir.net.
+Theme URI: http://www.geotexan.com
+Description: Un tema _responsive_ para la web basada en WordPress de Geotexan, S. A.
 Author: Bitblue
-Author URI: http://qinn.es
-Template: bootstrap-basic
-Version: 2.0
+Author URI: http://bitblue.es
+Version: 3.0
+Tags: responsive, bootstrap
+
+License: GPL
+License URI: http://www.gnu.org/copyleft/gpl.html
+
+Este tema se ha creado siguiendo http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
 */
-@charset "UTF-8";
+
+@import url('bootstrap/css/bootstrap.css');
+/* @import url('bootstrap/css/bootstrap-responsive.css'); 
+ * Not needed anymore since v3*/ 
+
+body {
+    padding-top: 60px; 
+    padding-bottom: 40px; 
+}
